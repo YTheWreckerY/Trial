@@ -1,7 +1,48 @@
-# [![waylon walker header](https://github.com/VARhimank/VARhimank/blob/main/header.gif)](https://www.linkedin.com/in/himank-varshney-42b96717a/)
+# 👋 Hi, I'm Himank Varshney  
+### 🟢 CSE Undergrad • Frontend Enthusiast • Designer • Aspiring Developer
 
-Hello 🟢 My name is Himank Varshney and I am a CSE college student. I have interests in **🟢HTML**, **🟢CSS** and **🟢C++** and I can **🟢Design** as well. I'm from India. You can contact me using 🟢[LinkedIn](https://www.linkedin.com/in/himank-varshney-42b96717a/). I have a lot to learn and I hope you give me the opportunity !
+[![header](https://github.com/VARhimank/VARhimank/blob/main/header.gif)](https://www.linkedin.com/in/himank-varshney-42b96717a/)
 
-📗I use C/C++ for coding | 🐍Will start learning python soon | 🚵‍♂️Recent Activity :<a href="https://github.com/VARhimank/MLH-Local-Hack-Day">[Click here]</a>⛳
+---
 
-🍀![](https://komarev.com/ghpvc/?username=VARhimank&color=brightgreen)🚙
+## 🚀 About Me  
+I’m a **Computer Science Engineering student from India**, passionate about clean UI, modern web development, and efficient programming.  
+I enjoy building aesthetic interfaces, exploring new technologies, and constantly improving my skills.
+
+---
+
+## 🧰 Tech Toolbox  
+
+### 🌐 Frontend  
+- **HTML**, **CSS**  
+- Responsive Web Design  
+- UI/UX Thinking
+
+### 💻 Programming  
+- **C**, **C++**  
+- Beginning my Python journey 🐍
+
+### 🎨 Designing  
+- Minimal & clean design approach  
+- Love creating smooth, intuitive experiences
+
+---
+
+## 🔥 Current Focus  
+- Leveling up in C++ and problem-solving  
+- Learning Python and exploring new frameworks  
+- Building real-world projects  
+- Recent Activity → **[MLH Local Hack Day](https://github.com/VARhimank/MLH-Local-Hack-Day)**
+
+---
+
+## 📫 Connect With Me  
+🔗 **LinkedIn:** https://www.linkedin.com/in/himank-varshney-42b96717a/
+
+---
+
+## 🧮 Profile Views  
+![](https://komarev.com/ghpvc/?username=VARhimank&color=brightgreen)
+
+---
+
